@@ -4,6 +4,11 @@
 
 ![](https://raw.githubusercontent.com/lsqkk/image/main/20251228171052190.png)
 
+## 在线体验
+网址：[Chat Analyzer / 夸克博客](https://lsqkk.github.io/tool/chat-analyzer)
+
+> 说明：此网址使用和本仓库不同的划词器和不同的词云生成工具，且无需配置排除词，统计结果和图云和以下使用`main.py`生成的词云和高频词信息有所不同。
+
 ## 功能特性
 
 ### 核心分析功能
